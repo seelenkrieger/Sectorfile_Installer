@@ -44,6 +44,9 @@ Packagename = "How the Correct Packagename is called at https://files.aero-nav.c
 
 Testing = True or False, depenting if you are using this file as py or convert it into a exe file via auto-py-to-exe
 
+
+
+
 Required online Files
 
 EuroScope.tff
