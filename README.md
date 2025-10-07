@@ -47,5 +47,7 @@ Testing = True or False, depenting if you are using this file as py or convert i
 Required online Files
 
 EuroScope.tff
+
 EuroScope.zip
-installerversion.txt
+
+Installerversion.txt
